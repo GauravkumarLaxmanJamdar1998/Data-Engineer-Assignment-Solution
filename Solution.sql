@@ -1,4 +1,4 @@
-									** PROBLEM1 **
+									** PROBLEM - 1 solution**
 1.Monthly Active Users (MAU) based on stream_start and app_start events:
 -> 
 function defination->
@@ -86,7 +86,7 @@ SELECT get_cohort_retention_ss_as('2023-07-01', '2023-07-07') AS cohort_retentio
 
 
 
-                                                                                      ** PROBLEM2 **
+                                                                                      ** PROBLEM -2 solution **
 
 ETL Pipeline:
 
